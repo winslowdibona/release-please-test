@@ -4,6 +4,9 @@
 git config user.name "GitHub Actions Bot"
 git config user.email "<>"
 
+git status
+git log
+
 # Make random change
 echo "abcdefg" >> /code/release-please-test/tmp.txt
 git add .
