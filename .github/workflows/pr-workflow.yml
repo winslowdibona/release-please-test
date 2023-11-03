@@ -14,4 +14,4 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Make change
-      run: bash -c "./github/utils/modify.sh"
+      run: bash -c "./.github/utils/modify.sh"
