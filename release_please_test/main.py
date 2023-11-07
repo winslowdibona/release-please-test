@@ -5,4 +5,4 @@ def goodbye(who):
     return f'Goodbye {who}!'
 
 def adios(who):
-    return f'Adios {who}!'
+    return f'Adios  {who}!'
