@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/winslowdibona/release-please-test/compare/v0.1.0...v0.2.0) (2023-11-07)
+
+
+### Features
+
+* add something ([42964e2](https://github.com/winslowdibona/release-please-test/commit/42964e252cd8f9354c79edcf4cd09b369b195cd8))
+
 ## 0.1.0 (2023-11-07)
 
 
