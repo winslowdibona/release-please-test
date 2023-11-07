@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.0](https://github.com/winslowdibona/release-please-test/compare/v0.2.0...v0.3.0) (2023-11-07)
+
+
+### Features
+
+* add farewell method ([92f016c](https://github.com/winslowdibona/release-please-test/commit/92f016c77c9a3ac17fac8fc8e41abae9d8377ecf))
+* add goodbye method ([3c9fc77](https://github.com/winslowdibona/release-please-test/commit/3c9fc7765ee5b96cf87a0803588c30fbe647be90))
+
+
+### Miscellaneous
+
+* chore commit ([04c0a13](https://github.com/winslowdibona/release-please-test/commit/04c0a136ac7e66c2524974e4a4001c142030bba9))
+
 ## [0.2.0](https://github.com/winslowdibona/release-please-test/compare/v0.1.0...v0.2.0) (2023-11-07)
 
 
