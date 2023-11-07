@@ -9,7 +9,5 @@ setup(
     license='LICENSE',
     description='',
     long_description=open('README.md').read(),
-    install_requires=[
-        "Django == 3.2.22",
-    ],
+    install_requires=[],
 )
