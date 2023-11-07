@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='release-please-test',
-    version='0.3.0',
+    version='0.3.1',
     author='winslowdibona',
     packages=find_packages(exclude=['release-please-test/tests']),
     url='https://github.com/winslowdibona/release-please-test',
