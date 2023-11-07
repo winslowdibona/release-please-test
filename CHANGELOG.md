@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/winslowdibona/release-please-test/compare/v0.3.0...v0.3.1) (2023-11-07)
+
+
+### Bug Fixes
+
+* fix commit ([adaa96c](https://github.com/winslowdibona/release-please-test/commit/adaa96cb372f4e9be3186917fe2da66eec7a8001))
+
 ## [0.3.0](https://github.com/winslowdibona/release-please-test/compare/v0.2.0...v0.3.0) (2023-11-07)
 
 
